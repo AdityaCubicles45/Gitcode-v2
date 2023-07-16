@@ -1,12 +1,11 @@
 <div align="center">
-    <img src="https://github.com/manazpr/gitpaid-app/assets/12442269/b93b4592-fd7e-4906-9c34-ca40b3fed3b8" alt="gitpaid-logo">
     <h1>Gitode-v2</h1>
     <strong>Tech stack: Next.js 13, React, Tailwind, ICP, Chainlink</strong>
 </div>
 <br>
 <div align="center">
     <a href="">
-        <img src="https://therealsujitk-vercel-badge.vercel.app/?app=gitpaid-app-manazpr" alt="Vercel">
+        <img src="https://therealsujitk-vercel-badge.vercel.app/?app=gitcode-v2" alt="Vercel">
     </a>
      <a href="https://gitpod.io/#">
         <img src="https://img.shields.io/badge/setup-automated-blue?logo=gitpod" alt="Gitpod">
