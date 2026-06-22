@@ -1,27 +1,14 @@
-<div align="center">
-    <h1>Gitode-v2</h1>
-    <strong>Tech stack: Next.js 13, React, Tailwind, ICP, Chainlink</strong>
-</div>
-<br>
-<div align="center">
-    <a href="">
-        <img src="https://therealsujitk-vercel-badge.vercel.app/?app=gitcode-v2" alt="Vercel">
-    </a>
-     <a href="https://gitpod.io/#">
-        <img src="https://img.shields.io/badge/setup-automated-blue?logo=gitpod" alt="Gitpod">
-    </a>
-     <a href="https://twitter.com/Aditya04183">
-        <img src="https://img.shields.io/twitter/follow/Aditya04183?style=social" alt="Aaditya Singh Twitter">
-    </a>
-</div>
-<div align="center">
-    <br>
-    <a href="https://www.adityasingh.live/"><b>Visit »</b></a>
-    <br>
-   
-</div>
+# Gitcode-v2
 
-## Getting Started
+[![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=gitcode-v2)](https://gitcode-v2.vercel.app)
+[![Gitpod Ready](https://img.shields.io/badge/Gitpod-ready-blue?logo=gitpod)](https://gitpod.io/#)
+[![Twitter](https://img.shields.io/twitter/follow/Aditya04183?style=social)](https://twitter.com/Aditya04183)
+[![License](https://img.shields.io/github/license/AdityaCubicles45/Gitcode-v2?style=flat-square)](LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-13-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+
+> A modern web application built with Next.js 13, React, Tailwind CSS, ICP, and Chainlink.
+
+## 🚀 Getting Started
 
 First, run the development server:
 
@@ -35,21 +22,47 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit it.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## 🛠 Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Framework**: [Next.js 13](https://nextjs.org/docs) — App Router
+- **Language**: TypeScript
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Blockchain**: [ICP (Internet Computer Protocol)](https://internetcomputer.org/)
+- **Oracles**: [Chainlink](https://chain.link/)
+- **Deployment**: [Vercel](https://vercel.com/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📚 Learn More
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+To learn more about Next.js, check out:
 
-## Deploy on Vercel
+- [Next.js Documentation](https://nextjs.org/docs) — learn about Next.js features and API
+- [Learn Next.js](https://nextjs.org/learn) — interactive Next.js tutorial
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Check out the [Next.js GitHub repository](https://github.com/vercel/next.js/) — your feedback and contributions are welcome!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🌐 Deploy
+
+Deploy your own version on [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) — the easiest way to deploy Next.js apps.
+
+## 👤 Author
+
+- **Aditya Singh** — [@Aditya04183](https://twitter.com/Aditya04183)
+- **Website**: [adityasingh.live](https://www.adityasingh.live/)
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
